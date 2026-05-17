@@ -63,4 +63,6 @@ Refer to the [cava manual](https://github.com/karlstav/cava#configuration) to un
 ![plain-play](https://github.com/toccifrancesco/play/blob/main/screenshots/plain-play.png)
 
 ---
-Wish you a good time with my simple script!
+Wish you a good time with my simple script!\
+yours,\
+*-FBT*

@@ -1,8 +1,10 @@
 # play
-A CLI music player script that simply runs cava while music is playing, with local cava theme!\
+A CLI music player script that automatically runs cava while music is playing, with a local cava theme!\
 Will automatically stop showing cava's "music bars" when ctrl+c is pressed.
 
-The core design idea is to have a simple and minimal way of playing and visualizing long audio tracks such as playlists or ambient music, without any particular control on the GUI interface, just plain bars and a keyboard shortcut to stop the player. This simple solution I designed is by far my favorite way of listening to music on my laptop, as when I work i only listen to ambient tracks. For this reason I decided to share it even though it's pretty simple. I use it all the time.
+Since on my laptop I only listen to ambient tracks or playlists stored in a single mp3 file, I wanted a music player with simply no controls, nice aesthetic and no distractions. My process always was to first play my ambient track, then minimize the player and then running cava in the terminal. I'm not sure what's so special about those spectrogram bars, but I just love to have them in some corner of my monitor. To automatize this process, play.sh was born... and now it's also yours!
+
+The core design idea is to have a minimal and blazing fast way of playing and visualizing long audio tracks with just plain bars and a keyboard shortcut to stop the player. No pause, no resume, not next track, no previous track. Some might think I'm crazy for wanting this... but I wanted it, so i made it. And if you like it, you can have it too. This simple solution I designed is by far my favorite.
 
 If you have some *purchased tracks*, you can use tools such as [yt-dlp](https://github.com/yt-dlp/yt-dlp) to obtain a copy of them to play using this script.
 
@@ -26,7 +28,7 @@ If you have some *purchased tracks*, you can use tools such as [yt-dlp](https://
   ```bash
   ./play.sh [track.mp3]
   ```
-  *Note*: You can use **tab** after ./play to see your track list.
+  *Note*: You can use **tab** after ./play.sh to see your track list.
 - Exit anytime with the ctrl+c shortcut.
 
 ## 🖼️**Edit theme**

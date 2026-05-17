@@ -32,7 +32,7 @@ If you have some *purchased tracks*, you can use tools such as [yt-dlp](https://
 - Exit anytime with the ctrl+c shortcut.
 
 ## 🖼️**Edit theme**
-play.sh holds it's local cava configuration, which you can adjust as you wish.\
+play.sh holds it's own local cava configuration, which you can adjust as you wish.\
 Look inside the file, you'll see:
 ```bash
 TEMP_CAVA_CONF=$(mktemp)
@@ -53,7 +53,7 @@ Refer to the [cava manual](https://github.com/karlstav/cava#configuration) to un
 
 ---
 ## A couple of screenshots
-*...even though it just looks like cava, of course...*\
+*...even though it just looks like cava, of course.*\
 *Note*: some window transparency, blur and a nice background also help to achieve a nice aesthetic!
 
 ### My play script running alongside it's code

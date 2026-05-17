@@ -51,7 +51,8 @@ Refer to the [cava manual](https://github.com/karlstav/cava#configuration) to un
 
 ---
 ## A couple of screenshots
-*...even though it just looks like cava* - some transparency and a nice background also help
+*...even though it just looks like cava, of course...*\
+*Note*: some window transparency, blur and a nice background also help to achieve a nice aesthetic!
 
 ### My play script running alongside it's code
 ![play-vim](https://github.com/toccifrancesco/play/blob/main/screenshots/play-vim.png)

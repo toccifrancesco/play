@@ -24,7 +24,7 @@ If you have some *purchased tracks*, you can use tools such as [yt-dlp](https://
   ```
 - Run the script!
   ```bash
-  ./play [track.mp3]
+  ./play.sh [track.mp3]
   ```
   *Note*: You can use **tab** after ./play to see your track list.
 - Exit anytime with the ctrl+c shortcut.
@@ -51,7 +51,7 @@ Refer to the [cava manual](https://github.com/karlstav/cava#configuration) to un
 
 ---
 ## A couple of screenshots
-*...even though it just looks like cava*
+*...even though it just looks like cava* - some transparency and a nice background also help
 
 ### My play script running alongside it's code
 ![play-vim](https://github.com/toccifrancesco/play/blob/main/screenshots/play-vim.png)

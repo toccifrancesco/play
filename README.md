@@ -1,5 +1,5 @@
 # play
-A CLI music player script that automatically runs cava while music is playing, with a local cava theme!\
+A CLI music player script that automatically runs cava while music is playing, with a local cava theme.\
 Will automatically stop showing cava's "music bars" when ctrl+c is pressed.
 
 Since on my laptop I only listen to ambient tracks or playlists stored in a single mp3 file, I wanted a music player with simply no controls, nice aesthetic and no distractions. My process always was to first play my ambient track, then minimize the player and then running cava in the terminal. I'm not sure what's so special about those spectrogram bars, but I just love to have them in some corner of my monitor. To automatize this process, play.sh was born... and now it's also yours!
